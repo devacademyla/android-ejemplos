@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:id="@+id/widget44"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<Button
+	android:id="@+id/crearDbTabla"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Crear Base de Datos y Tabla" />
+<Button
+	android:id="@+id/agregarNuevaFila"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Agregar Nueva Fila" />
+<Button
+	android:id="@+id/actualizarFila"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Actualizar Fila" />
+<Button
+	android:id="@+id/totalFilas"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Obtener Numero Total Filas" />
+<Button
+	android:id="@+id/todasFilas"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Obtener Todas las Filas" />
+<Button
+	android:id="@+id/borrarFilas"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Borrar Filas" />
+</LinearLayout>
+
