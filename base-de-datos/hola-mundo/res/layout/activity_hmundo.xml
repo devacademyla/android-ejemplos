@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	android:id="@+id/widget34"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<EditText
+	android:id="@+id/widget33"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="EditText"
+	android:textSize="18sp"
+	android:layout_below="@+id/tvDescripcion"
+	android:layout_alignParentLeft="true" />
+<TextView
+	android:id="@+id/tvDescripcion"
+	android:layout_width="wrap_content"
+	android:layout_height="30dp"
+	android:text="devacademy"
+	android:layout_alignParentTop="true"
+	android:layout_alignParentLeft="true" />
+</RelativeLayout>
