@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">WS_RESTClient</string>
+    <string name="default_url">http://www.thomas-bayer.com/sqlrest/INVOICE/15/</string>
+    <string name="request">Clic Para enviar la peticion HTTP!</string>
+    <string name="error_message">Error occurred!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
